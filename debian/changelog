@@ -31,6 +31,12 @@ cinnamon-menus (4.2.0) tina; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Sun, 23 Jun 2019 15:33:32 +0200
 
+cinnamon-menus (4.0.0-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sun, 17 Mar 2019 23:05:33 +0100
+
 cinnamon-menus (4.0.0) tessa; urgency=medium
 
   * CI: Remove Mint 18
