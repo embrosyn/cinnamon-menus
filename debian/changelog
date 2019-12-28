@@ -1,3 +1,9 @@
+cinnamon-menus (4.4.0-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Sat, 28 Dec 2019 03:32:14 +0100
+
 cinnamon-menus (4.4.0) tricia; urgency=medium
 
   * 4.4.0
